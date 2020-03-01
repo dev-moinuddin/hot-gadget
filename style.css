@@ -1,0 +1,21 @@
+/*
+
+Tampale Name : Hot Gadget
+Author: Mohammad Moin uddin
+Author Url : www.facebook.com/devmoinuddin
+mail : smmohi0000@gmail.com 
+
+*/
+.carousel-indicators-color li{
+	background-color:  #ffc107;
+}
+.carousel-indicators-color li:activ{
+	background-color: #ffc107 ;
+}
+.card-footer{
+	background-color: #FFFFFF;
+	border-top: 0;
+}
+.card{
+	border: none;
+}
